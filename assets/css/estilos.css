@@ -2,6 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.navbar-brand img {
+  height: 60px; /* Ajusta el tamaño a tu preferencia */
+  max-height: 30px; /* Opcional: evita que crezca demasiado */
+}
+
 /* Hero Section */
 
 #Hero-Section {
