@@ -1,9 +1,8 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 .navbar-brand img {
@@ -22,7 +21,7 @@ html {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
