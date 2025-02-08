@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .navbar-brand img {
   height: 60px; /* Ajusta el tamaño a tu preferencia */
   max-height: 30px; /* Opcional: evita que crezca demasiado */
@@ -10,7 +14,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
